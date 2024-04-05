@@ -1,0 +1,3 @@
+[submodule "lib/qp"]
+	path = lib/qp
+	url = http://gitlab.amdc.local/amdc-common/qp
