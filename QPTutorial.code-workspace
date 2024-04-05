@@ -5,7 +5,10 @@
 			"path": "."
 		},
 		{
-			"path": "../subprojects/qp"
+			"path": "../../amdc_platformio_container"
+		},
+		{
+			"path": ".."
 		}
 	],
 	"settings": {
